@@ -1,2 +1,2 @@
 # Ciencia-dos-dados---Projeto1
-Projeto de ciencia dos dados, analisando o IDH e mais duas variáveis, acesso ao saneamento básico e índice de percepção de corrupção 
+Projeto de ciencia dos dados, analisando a interferencia da CEI no desenvolvimento da educacao e queda do desemprego.
